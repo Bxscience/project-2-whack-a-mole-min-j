@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhackAMole</string>
+    <string name="title">Whack-A-Mole</string>
+    <string name="diglet">diglet</string>
+    <string name="choice1">2 X 3</string>
+    <string name="choice2">3 X 4</string>
+    <string name="choice3">4 X 5</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="endtext">Game Over!</string>
+    <string name="menu">Main Menu</string>
+</resources>
